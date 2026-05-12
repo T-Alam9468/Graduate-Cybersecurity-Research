@@ -79,8 +79,7 @@ New York University (NYU)
 Towhid Alam
 
 ## Video Presentation
-Presentation Link:
-(Add NYU Stream or YouTube link here)
+Presentation Link: https://stream.nyu.edu/media/Defeating+MFA+Fatigue+with+Machine+Learning/1_hw37gkoy
 
 ## References
 - NIST Digital Identity Guidelines
